@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Adhitama","characterIndex":0,"characterName":"Adhitama","classId":5,"equips":[6,1,0,3,0],"faceIndex":0,"faceName":"AdhitamaFace","traits":[{"code":43,"dataId":11,"value":1},{"code":43,"dataId":13,"value":1},{"code":41,"dataId":3,"value":1},{"code":43,"dataId":14,"value":1},{"code":43,"dataId":12,"value":1},{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Adhitama Shirou","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Yasir","characterIndex":0,"characterName":"Yasir","classId":6,"equips":[5,1,0,3,0],"faceIndex":0,"faceName":"YasirFace","traits":[{"code":41,"dataId":3,"value":1},{"code":43,"dataId":15,"value":1},{"code":51,"dataId":11,"value":1},{"code":43,"dataId":3,"value":1},{"code":43,"dataId":4,"value":1},{"code":43,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Abdul Yasir Riziq","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Ferry","characterIndex":0,"characterName":"Ferry","classId":7,"equips":[1,0,0,3,4],"faceIndex":0,"faceName":"Ferry","traits":[{"code":43,"dataId":8,"value":1},{"code":43,"dataId":16,"value":1},{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Fery Tjahaja Purnama","nickname":"","note":"","profile":""}
+]
